@@ -3,7 +3,6 @@ title: "Informe Anterior"
 date: 2022-05-28
 tags: ["nota", "tsje", "no redactado"]
 draft: false
-twitter_img: "img/large_card.png"
 description: "Summary of the post"
 ---
 

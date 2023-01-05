@@ -24,15 +24,15 @@ Imaginemos que sí llegan.
 x \Longrightarrow \dfrac{1}{h}
 \end{align*}
 
-$\Delta h$ porque los honorarios están acotados: 5\% y 20\%.
+$$\Delta h$$ porque los honorarios están acotados: 5\% y 20\%.
 
-Pero la otra variable no. Esta regla de tres es mera fantasía y no significa mayor cosa. Si lo escribimos de manera simplificada se vería así. En realidad no es así, se trata de una serie telescópica, pero por un momento olvidemos eso:
+Pero la otra variable no lo está. Como consecuencia esta regla de tres es mera fantasía y no significa mayor cosa. Si lo escribimos de manera simplificada se vería así. En realidad no es así, se trata de una serie telescópica, pero por un momento olvidemos eso:
 
 $$
 \lim_{n \rightarrow \infty} a_{n} = 0
 $$
 
-Paciello objeta, pero si pienso en una suma, siempre podré pensar en una mayor. Sin querer quizás, está dando la precisión de lo que es una serie no acotada. Lo cual, para el caso, no tiene sentido. Los honorarios tenderian al minimo eternamente no importa que tan alto bajo sea el monto o tan alto sea éste y la responsabilidad asumida en consecuencia.
+Paciello objeta: pero si pienso en una suma, siempre podré pensar en una mayor. Sin querer quizás, está dando la precisión de lo que es una serie no acotada. Lo cual, para el caso, no tiene sentido. Los honorarios tenderian al minimo eternamente no importa que tan alto bajo sea el monto o tan alto sea éste y la responsabilidad asumida en consecuencia.
 
 Torres K. dice que no es mas que una repeticion que se debe resolver en conjunto con el artículo 21, lo cuál, además de ser una solución razonable no deja de tener elegancia. Notable, los que llegamos a conocerle, la simpática, directa, elegancia del profesor Torres Kirmser.
 
@@ -44,17 +44,16 @@ Propone siempre un monto que equidista del total tanto para uno como para otro: 
 
 ¿Pero qué si no tenemos sino la primera porción? ¿Qué razón aplicar? 
 
-Allí es donde TK señala: si no conocemos sino la porción primera la porción la mayor porción será tal que la suma de ambas porciones represente la mayor. Hipétesis a la que podemos recurrir en un montón de casos imagino.
+Allí es donde Torres K. señala: si no conocemos sino la porción primera la porción la mayor porción será tal que la suma de ambas porciones represente la mayor. Hipótesis, que si pudiéramos enunciar de manera genérica, podemos recurrir en un montón de casos imagino.
 
 
 $$
 x = 2 x_0
 $$
 
-Si un juicio es de 100 millones el total representado por ese monto más el que desconocemos será 200 millones. Y si es de 2 millones sera apenas de 4 millones. A la justicia le gusta la razon: equilibrar la balanza, dar a cada uno lo que es suyo, etc. Asi que su solucion puede ser considerada no solo justa, inteligente, al no meterse donde no le importa, y bella porque coincide con los valores de justicia.
+Si un juicio es de 100 millones el total representado por ese monto más el que desconocemos será 200 millones. Y si es de 2 millones sera apenas de 4 millones. A la justicia le gusta la razon: equilibrar la balanza, dar a cada uno lo que es suyo, etc. Asi que su solución puede ser considerada no solo justa, inteligente, al no meterse donde no le importa, y bella porque coincide con los valores de justicia.
 
 Entonces, claro, no solucionamos el problema porque ahora **el mayor monto** simplemente fué desplazado a un descriptor. Cierto, pero ya no es gran problema. Es el cuarto de un problema, se tendrá que considerar junto con otros y su impacto de falsa proporción será menor.
 
-He aquí un escrito: [falta pero lo tendremos pronto]
+He aquí un escrito [reciente](/plra/main.pdf).
 
-tags #honorarios #matemáticas #general

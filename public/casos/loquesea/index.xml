@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aca esta lo que sea on Wilson Villalba</title>
+    <link>/casos/loquesea/</link>
+    <description>Recent content in Aca esta lo que sea on Wilson Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 2021 22:50:26 +0000</lastBuildDate><atom:link href="/casos/loquesea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lo que sea</title>
+      <link>/loquesea/</link>
+      <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
+      
+      <guid>/loquesea/</guid>
+      <description>hello</description>
+    </item>
+    
+  </channel>
+</rss>

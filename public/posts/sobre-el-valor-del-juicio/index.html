@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>¿Cuál es el valor del Juicio?</title>
+        <link rel="canonical" href="/posts/sobre-el-valor-del-juicio/">
+        <style>
+
+    html body {
+        font-family: 'Playfair Display', sans-serif;
+        background-color: #f5f5f5;
+    }
+
+    :root {
+        --accent: #386890;
+        --border-width:  0 ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair%20Display">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=VT323">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/lakeside-light.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css" integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+
+ 
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+
+
+<script>
+$(document).ready(function(){
+    
+  var input = $('#night-mode-toggle');
+  var container = $('#bigbody');
+  var stat = $('#button-status');
+  
+  container.toggleClass(localStorage.toggled);
+  stat.bootstrapToggle(localStorage.button).change();
+  
+  input.on('click', function() {
+      if (localStorage.toggled != "-nightmode" ) {
+          container.toggleClass("-nightmode", true );
+          localStorage.toggled = "-nightmode";
+          localStorage.button = "on";
+       } else {
+          container.toggleClass("-nightmode", false );
+          localStorage.toggled = "";
+          localStorage.button = "off"
+       }
+  })
+});
+</script>
+ <meta name="generator" content="Hugo 0.87.0" />
+        <link href="" rel="alternate" type="application/rss+xml" title="Wilson Villalba" />
+        <link href="" rel="feed" type="application/rss+xml" title="Wilson Villalba" />
+        
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="/img/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="msapplication-config" content="/img/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    
+    <meta property="og:title" content="¿Cuál es el valor del Juicio?">
+    <meta property="og:type" content="article">
+      
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:image" content="/favicon/android-chrome-192x192.png" >
+      
+    <meta property="description" content="El valor del juicio es la base de todos los cálculos en una regulación.">
+    <meta property="og:description" content="El valor del juicio es la base de todos los cálculos en una regulación.">
+    
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:site" content="">
+    
+    </head>
+
+    
+    
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <body id = "bigbody">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">¿Cuál es el valor del Juicio?</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/posts/">Notas</a></li>
+                            
+                                <li><a href="/plra/">PLRA</a></li>
+                            
+                                <li><a href="/tags/">Tags</a></li>
+                            
+                        </ul>
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:plra@wilson.villalba.is"><i class="far fa-envelope"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/FriendsAtDawn"><i class="fab fa-github"></i></a></li>
+                            
+                            <li id="night-mode-toggle">
+    <input type="checkbox" id = "button-status"
+        data-toggle="toggle"
+        data-width = "10"
+        data-height = "1"
+        data-on="<i class='far fa-moon fa-lg'></i>"
+        data-off= "<i class='far fa-sun fa-lg'></i>"
+        data-style="ios"
+        data-onstyle = "default">
+</li>
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div class="item">
+
+    
+    
+    
+
+    
+      
+      
+    
+
+    <h4><a href="/posts/sobre-el-valor-del-juicio/">¿Cuál es el valor del Juicio?</a></h4>
+    <h5>January 9, 2023 - 4 minutes</h5>
+    <h5>El valor del juicio es la base de todos los cálculos en una regulación.</h5>
+
+    
+    
+
+</div>
+
+
+    <br> <div class="text-justify"><h2 id="determinación-del-monto-del-juicio">Determinación del monto del juicio.</h2>
+<p>Primariamente, el monto base para el justiprecio es el capital reclamado.</p>
+<p>Pero la demanda es por ese monto y por sus intereses, los cuáles no
+pueden dejar de tenerse en cuenta. En ningún caso. Ni si la actora logra
+éxito, tanto como si no. Ese hecho le es ajeno a la estipulación del monto del juicio. -</p>
+<blockquote>
+<p>&lt;&lt;Corresponde considerar, a los fines de resarcirtorio de los
+honorarios de la abogada patrocinante, la demandada, la suma reclamada
+y todos los accesorios que la actora hubiera logrado si hubiera
+triunfado en sus pretensiones, ya que esa ha sido su petición en el
+escrito inicial de demanda, de conformidad a la norma contenida en el
+inciso a del artículo 26 de la Ley 1306/88. Auto interlocutorio Número
+40 del 18 de octubre de 1993 dictado por el Tribunal de Apelación
+Civil y Comercial Tercera Sala.&gt;&gt;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+</blockquote>
+<p>Totalmente natural lo señalado por el Dr. Torres K. si consideramos que
+una cosa es una suma ilíquida y otra cosa una liquidable . Así un fallo
+reciente:-</p>
+<blockquote>
+<p>&lt;&lt;la acción ejecutiva requiere de un título ejecutivo, que existe
+cuando exterioriza una obligación de dar suma de dinero, liquida o
+fácilmente liquidable y exigible (CNCiv., esta Sala, Septiembre 7 de
+1981, ED 96584); es preciso que el título se baste a sí mismo,
+surgiendo de él una obligación pura y simple por suma líquida y
+exigible (CNCom., Sala C, Diciembre 15 de 1960; ED 1755)&gt;&gt;, el
+tribunal consideró que &lt;&lt;la suma es líquida cuando de las
+constancias del título ejecutivo permiten calcularla sin dificultad,
+(CNCiv., Sala C, Setiembre 16 de 1963, ED, 824)&gt;&gt;<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+</blockquote>
+<p>Al igual que un fallo local: -</p>
+<blockquote>
+<p>&lt;&lt;Con respecto al requisito de la liquidez, si bien en el documento
+no se encuentra una obligación liquida, es liquidable por medio de una
+mera operación aritmética, en este caso, la suma. Tras efectuar la
+suma corroboramos que efectivamente el monto demandado es el expresado
+por la actora en su escrito inicial,&hellip;&gt;&gt;<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></p>
+</blockquote>
+<p>Además, el artículo 29 lo explicita: -</p>
+<blockquote>
+<p>&lt;&lt;Art. 29.- Una vez concluido el juicio, y determinados los valores
+exactos y el vencedor, el profesional tendrá derecho a que se le
+regulen complementariamente los honorarios que no hubiese percibido.
+En todos los casos, ya sea que el profesional perciba
+proporcionalmente sus honorarios o prefiriera exigirlos al término del
+juicio o de la causa, [los valores deberán ajustarse al tiempo en que
+se los regula]{.smallcaps}.&gt;&gt;</p>
+</blockquote>
+<p>Suma líquida, pues, no difiere mucho conceptualmente de una
+liquidable.-</p>
+<p>$$
+\mbox{suma líquida} \approx \mbox{suma liquidable} \label{caslculo-monto-juicio}
+$$</p>
+<p>En el caso que me ocupaba, el documento presentado reclamaba intereses del
+orden del 1.5% mensual más el 30% del mismo en orden de los intereses
+punitorios, los cuales no se encuentran fuera del rango que suelen fijar
+los juzgados.-</p>
+<p>Es decir</p>
+<p>$$
+\dfrac{30}{100} + \dfrac{30}{100} \times \dfrac{30}{100}  \approx 4%
+$$</p>
+<p>Como los mismos hubieran corrido desde la emisión del título, los mismos
+son &lt;&lt;fácilmente liquidables&gt;&gt;. -</p>
+<p>Desde su presentación habían pasado 41 meses.-</p>
+<p>$$
+4 \times 41
+$$</p>
+<p>Los cálculos pues se pueden ordenar de la siguiente manera bajo el supuesto de que el mismo sea de mil millones:</p>
+<p>$$
+1000000000 + 1000000000 \times 31  \times 4 = &hellip;
+$$</p>
+<p>En principio ese sería el valor del juicio, sin los gastos y honorarios,
+etc.</p>
+<hr>
+<pre><code>@book{torres,
+	address = {Asunción},
+	author = {{Torres Kirmser}, Jose Raúl},
+	keywords = {honorarios},
+	publisher = {La Ley Paraguaya Ed.},
+	title = {Honorarios de abogados y procuradores : ley 1376/88 ; anot., concordada ; jurisprudencia},
+	year = {1992}
+}
+
+@misc{fallo:albertini,
+	author = {y y 106)&gt;, TApel. Civ. Com. Tercera Sala. 9/10/13. (Ac. Sent. N{\textdegree}},
+	month = {10},
+	number = {106},
+	organization = {Poder Judicial},
+	title = {María Celsa Albertini de Pecci c/ Paticia Alexandra Woistchach Fornells s/Acción Preparatoria de Juicio Ejecutivo},
+	titletwo = {Ac. y Sent.},
+	url = {https://resoluciones.0007407.xyz/local/66303.pdf},
+	year = {2013}
+}
+
+@misc{fallo:monto-demanda,
+	author = {{CAMARA CIVIL - SALA}, F},
+	location = {https://www.cij.gov.ar/d/sentencia-SGU-9a935bba-7a83-41e5-818c-90462875409f.pdf},
+	month = {10},
+	number = {CIV 023020/2018/CA001},
+	title = {PRIGNON, VINCENT ANDRE LUC c/ MANSILLA, JOSE RICARDO Y OTRO s/EJECUCION DE ALQUILERES},
+	year = {2019}
+}
+
+
+</code></pre><section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>[@torres 156].&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>[Cfr. @fallo:monto-demanda].&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>[@fallo:albertini].&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+</div>
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+</main>
+
+      <footer id = "footer">
+      
+        </footer> 
+        
+     
+       
+    </body>
+
+</html>
+

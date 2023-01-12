@@ -31,7 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [[menu.main]]
     url = "/posts/"
-    name = "Notas"
+    name = "Notas sobre D."
     weight = 2
 
 # [[menu.main]]
@@ -49,6 +49,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "PLRA"
     weight = 4
 
+[[menu.main]]
+    url = "/links/"
+    name = "Links"
+    weight = 5
+
 #  [[menu.main.plra]]
 #  url = "/plra/"
 #  name = "PLRA"
@@ -65,7 +70,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url  = "mailto:plra@wilson.villalba.is"
+    url  = "mailto:page@wilson.villalba.is"
     name = "far fa-envelope"
     weight = 1
 

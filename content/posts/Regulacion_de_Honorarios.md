@@ -1,7 +1,8 @@
 ---
 title: "Sobre Regulación de Honorarios"
-description: "Algo como modelos de escritos."
+description: "Algunas palabras sobre el misterioso artículo 32."
 draft: false
+date: 2023-01-11
 ---
 
 ### Regulación de honorarios.

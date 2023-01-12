@@ -1,6 +1,7 @@
 ---
 title: "¿Cuál es el valor del Juicio?"
-description: "El valor del juicio es la base de todos los cálculos en una regulación."
+description: "El valor del juicio es la base de todos los cálculos en una regulación.
+              Bien, decir eso es fácil, determinarlo es otro asunto."
 draft: false
 date: 2023-01-09
 ---
@@ -53,13 +54,13 @@ Además, el artículo 29 lo explicita: -
 > En todos los casos, ya sea que el profesional perciba
 > proporcionalmente sus honorarios o prefiriera exigirlos al término del
 > juicio o de la causa, [los valores deberán ajustarse al tiempo en que
-> se los regula]{.smallcaps}.\>\>
+> se los regula].\>\>
 
 Suma líquida, pues, no difiere mucho conceptualmente de una
 liquidable.-
 
 $$
-\mbox{suma líquida} \approx \mbox{suma liquidable} \label{caslculo-monto-juicio}
+\mbox{suma líquida} \approx \mbox{suma liquidable} 
 $$
 
 En el caso que me ocupaba, el documento presentado reclamaba intereses del
@@ -70,7 +71,7 @@ los juzgados.-
 Es decir
 
 $$
-\dfrac{30}{100} + \dfrac{30}{100} \times \dfrac{30}{100}  \approx 4\%
+\dfrac{30}{100} + \dfrac{30}{100} \times \dfrac{30}{100}  \approx 4\\%
 $$
 
 Como los mismos hubieran corrido desde la emisión del título, los mismos
@@ -79,13 +80,13 @@ son \<\<fácilmente liquidables\>\>. -
 Desde su presentación habían pasado 41 meses.-
 
 $$
-4 \times 41 
+4\\% \times 41 = 164\\%
 $$
 
 Los cálculos pues se pueden ordenar de la siguiente manera bajo el supuesto de que el mismo sea de mil millones:
 
 $$
-1000000000 + 1000000000 \times 31  \times 4 = ...
+1 000 000 000 + 1 000 000 000 \times 41  \times 4\\% = ...
 $$
 
 En principio ese sería el valor del juicio, sin los gastos y honorarios,

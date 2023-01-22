@@ -1,11 +1,19 @@
 ---
 title: "Nota WVPLRA-001"
 date: 2022-12-01
-tags: ["nota", "plra", "no redactado"]
+tags: ["nota", "plra", "no redactado", "tsje"]
 draft: false
 twitter_img: "img/large_card.png"
 description: "Informe de gestión"
 ---
+```
+En la mañana del domingo 22 hice un cambio de servidor y los links de
+esta página no funcionaron. A varias personas les dio error 404.
+
+La verdad nunca pensé que tendría tanto tráfico y los cambios los estaba
+haciendo a un ritmo lento. Gracias.
+```
+
 
 ### Revocación.
 
@@ -37,32 +45,30 @@ Muchas gracias a todos.
 
 ### Copias
 
-[Blas_Lanzoni_Achinelli.pdf](../content/Blas_Lanzoni_Achinelli.pdf)
+[Blas_Lanzoni_Achinelli.pdf](/plra/bla.pdf)
 
-[Enrique_Salyn_Buzarquis.pdf](../content/Enrique_Salyn_Buzarquis.pdf)
+[Enrique_Salyn_Buzarquis.pdf](/plra/escbc.pdf)
 
-[Esmérita_Sánchez_De_Da_Silva.pdf](../content/Esmérita_Sánchez_De_Da_Silva.pdf)
+[Esmérita_Sánchez_De_Da_Silva.pdf](/plra/esds.pdf)
 
-[Juan_B_Ramírez.pdf](../content/Juan_B_Ramírez.pdf)
+[Juan_B_Ramírez.pdf](/plra/jbr.pdf)
 
-[Juan_Felix_Bogado_Tatter.pdf](../content/Juan_Felix_Bogado_Tatter.pdf)
+[Juan_Felix_Bogado_Tatter.pdf](/plra/jfbt.pdf)
 
-[Leopoldo_Gomez_Zelada.pdf](../content/Leopoldo_Gomez_Zelada.pdf)
+[Leopoldo_Gomez_Zelada.pdf](/plra/clgzb.pdf)
 
-[Pedro_Efrain_Alegre_Sasiain.pdf](../content/Pedro_Efrain_Alegre_Sasiain.pdf)
+[Pedro_Efrain_Alegre_Sasiain.pdf](/plra/peas.pdf)
 
-[Víctor_Ríos_Ojeda.pdf](../content/Víctor_Ríos_Ojeda.pdf)
+[Víctor_Ríos_Ojeda.pdf](/plra/vro.pdf)
 
 ### Recursos
 
 [https://meridian.villalba.is/info.html](https://meridian.villalba.is/info.html)
 
-[https://itapua01.villalba.is](https://itapua01.villalba.is)
+[https://itapua01.villalba.is](https://itapua01.villalba.is) 
 
 [https://provalor.villalba.is](https://provalor.villalba.is)
 
 [https://finexpar.villalba.is](https://finexpar.villalba.is)
 
 [https://crisol.villalba.is](https://crisol.villalba.is)
-
-tags tsje

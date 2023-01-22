@@ -11,7 +11,7 @@ $ hugo new posts/my-post.md
 ```
 
 by default, this template creates a `posts/hello.md` for you, feel free to remove / rename it if you want.
-
+8
 ## Changing themes
 
 - Explore themes [here](https://themes.gohugo.io/)

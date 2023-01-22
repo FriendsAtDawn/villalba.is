@@ -114,35 +114,4 @@ etc.
 
 [^9]: [@torres 156].
 
-```
-@book{torres,
-	address = {Asunción},
-	author = {{Torres Kirmser}, Jose Raúl},
-	keywords = {honorarios},
-	publisher = {La Ley Paraguaya Ed.},
-	title = {Honorarios de abogados y procuradores : ley 1376/88 ; anot., concordada ; jurisprudencia},
-	year = {1992}
-}
-
-@misc{fallo:albertini,
-	author = {y y 106)>, TApel. Civ. Com. Tercera Sala. 9/10/13. (Ac. Sent. N{\textdegree}},
-	month = {10},
-	number = {106},
-	organization = {Poder Judicial},
-	title = {María Celsa Albertini de Pecci c/ Paticia Alexandra Woistchach Fornells s/Acción Preparatoria de Juicio Ejecutivo},
-	titletwo = {Ac. y Sent.},
-	url = {https://resoluciones.0007407.xyz/local/66303.pdf},
-	year = {2013}
-}
-
-@misc{fallo:monto-demanda,
-	author = {{CAMARA CIVIL - SALA}, F},
-	location = {https://www.cij.gov.ar/d/sentencia-SGU-9a935bba-7a83-41e5-818c-90462875409f.pdf},
-	month = {10},
-	number = {CIV 023020/2018/CA001},
-	title = {PRIGNON, VINCENT ANDRE LUC c/ MANSILLA, JOSE RICARDO Y OTRO s/EJECUCION DE ALQUILERES},
-	year = {2019}
-}
-
-
-```
+Los detalles de la Bibligrafía están en: [derecho.bib](/posts/derecho.bib)

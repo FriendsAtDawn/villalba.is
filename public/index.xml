@@ -6,7 +6,18 @@
     <description>Recent content on Wilson Villalba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interés compuesto</title>
+      <link>/posts/interes-compuesto/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/interes-compuesto/</guid>
+      <description>Interés compuesto Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:
+ ANATOCISMO: NOCIÓN.- ES la capitalización de los intereses, o interés compuesto, de modo que agregándose tales intereses al capital originario pasan a redituar nuevos intereses.   Esto es notable desde la misma notación de la fórmula. La del interés simple es:
+$$ I = C \times \Delta t \times ratio $$</description>
+    </item>
+    
     <item>
       <title>El aporte de un juez</title>
       <link>/posts/fuentes-regulacion/</link>
@@ -71,8 +82,7 @@ Las actuaciones de segunda instancia están en archivo separado: alzada</descrip
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/plra/notas_en_torno_a_revocacion/</guid>
-      <description>Revocación. Quiero informar que se me ha revocado el poder que me había otorgado el PLRA para defenderlo en las causas judiciales; y, en la medida en que me lo permitía el CC, a todas las demás personas demandadas con él.
-Fue un trabajo muy arduo, insumió muchas horas de análisis y escritura pero ni uno sólo de los casos que se me encomendaron pudieron avanzar en sus trámites. En alguno pude desandar el camino del proceso, evitando el embargo de los sueldos de los legisladores.</description>
+      <description>En la mañana del domingo 22 hice un cambio de servidor y los links de esta página no funcionaron. A varias personas les dio error 404. La verdad nunca pensé que tendría tanto tráfico y los cambios los estaba haciendo a un ritmo lento. Gracias. Revocación. Quiero informar que se me ha revocado el poder que me había otorgado el PLRA para defenderlo en las causas judiciales; y, en la medida en que me lo permitía el CC, a todas las demás personas demandadas con él.</description>
     </item>
     
     <item>

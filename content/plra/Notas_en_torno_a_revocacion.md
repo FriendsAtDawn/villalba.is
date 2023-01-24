@@ -45,21 +45,21 @@ Muchas gracias a todos.
 
 ### Copias
 
-[Blas_Lanzoni_Achinelli.pdf](/plra/bla.pdf)
+[Blas_Lanzoni_Achinelli.pdf](/plra/docs/BlasLanzoni.pdf)
 
-[Enrique_Salyn_Buzarquis.pdf](/plra/escbc.pdf)
+[Enrique_Salyn_Buzarquis.pdf](/plra/docs/EnriqueSalynBuzarquis.pdf)
 
-[Esmérita_Sánchez_De_Da_Silva.pdf](/plra/esds.pdf)
+[Esmérita_Sánchez_De_Da_Silva.pdf](/plra/docs/EsmeritaSanchez.pdf)
 
-[Juan_B_Ramírez.pdf](/plra/jbr.pdf)
+[Juan_B_Ramírez.pdf](/plra/docs/JuanBartolomeRamirez.pdf)
 
-[Juan_Felix_Bogado_Tatter.pdf](/plra/jfbt.pdf)
+[Juan_Felix_Bogado_Tatter.pdf](/plra/docs/JuanBogadoTatter.pdf)
 
-[Leopoldo_Gomez_Zelada.pdf](/plra/clgzb.pdf)
+[Leopoldo_Gomez_Zelada.pdf](/plra/docs/LeopoldoGomezZelada.pdf)
 
-[Pedro_Efrain_Alegre_Sasiain.pdf](/plra/peas.pdf)
+[Pedro_Efrain_Alegre_Sasiain.pdf](/plra/docs/PedroEfrainAlegre.pdf)
 
-[Víctor_Ríos_Ojeda.pdf](/plra/vro.pdf)
+[Víctor_Ríos_Ojeda.pdf](/plra/docs/VictorRiosOjeda.pdf)
 
 ### Recursos
 

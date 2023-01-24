@@ -21,7 +21,7 @@ Casi intuitivamente que esos valores constantes ---salvo el tiempo que pasa--- v
 
 Así si partimos desde un $C$ equivalente a 100 y un $ratio$ de 33% anuales:
 
-![IntSimple](/posts/iss.png)
+![IntSimple](/posts/img/iss.png)
 
 Una ecuación de primera grado siempre genera rectas.
 
@@ -59,6 +59,6 @@ $$
 V_f = 100 \times 6.32 = 632
 $$
 
-![Interes](/posts/compuesto.png)
+![Interes](/posts/img/compuesto.png)
 
 ¿Es legal esto? Sí, claro. Siempre y cuando la llamada *tasa efectiva* no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.

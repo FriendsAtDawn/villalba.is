@@ -2,6 +2,7 @@
 title: "¿Cuál es el valor del Juicio?"
 description: "El valor del juicio es la base de todos los cálculos en una regulación.
               Bien, decir eso es fácil, determinarlo es otro asunto."
+tags: ["regulación", "monto", "32"]
 draft: false
 date: 2023-01-09
 ---

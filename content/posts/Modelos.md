@@ -2,6 +2,7 @@
 title: "Modelos"
 description: "Algo como modelos de escritos."
 draft: false
+tags: ["modelos", "escritos", "recusación"]
 ---
 
 ## Modelos.
@@ -12,10 +13,7 @@ draft: false
 
 ### Acciones de inconstitucionalidad.
 
-```
-...
-
-```
+[Acción](/posts/img/main.pdf)
 
 ### Recusaciones.
 

@@ -1,6 +1,7 @@
 ---
 title: "El aporte de un juez"
 description: "Una publicación y una observación mala onda."
+tags: ["wip", "regulación", "32"]
 draft: false
 date: 2023-01-11
 ---

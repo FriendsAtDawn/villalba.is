@@ -31,17 +31,19 @@ $$
 V_f  = V_n (1 + i/f)^{(f n)}
 $$
 
-|      Simb. |  Obs.  |
-| ------ | ------ |
-| $$V_f$$ |	es el valor final.|
-| $$V_n$$	| es el valor de un periodo determinado |
-| $$i$$	| es la ratio del interés |
-| $$n$$	| son los periodos |
-| $$f$$	| es la frecuencia de actualización |
+Nótese que no se trata de hallar la ratio de interés ya que tal ratio cambia de momento a momento, sino de hallar el Valor Final del Valor Inicial.
+
+|      Simb. |  | Obs.  |
+| ------  | --- |------ |
+| $$V_f$$ | ; |	es el valor final.|
+| $$V_n$$	| ; | es el valor de un periodo determinado |
+| $$i$$	  | ; | es la ratio del interés |
+| $$n$$	  | ; | son los periodos |
+| $$f$$	  | ; | es la frecuencia de actualización |
 
 Ello asumiendo que la frecuencia es un número finito.
 
-No hace falta estimar valor alguno para darse cuenta de que esa ecuación es una cuadrática. En el plano no nos dibujerá una recta: Veamos.
+No hace falta estimar valor alguno para darse cuenta de que esa ecuación es una exponencial. En el plano no nos dibujará una recta: Veamos.
 
 $$
 V_f  = V_n (1 + i/f)^{(f n)}

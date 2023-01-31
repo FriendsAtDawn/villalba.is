@@ -1,15 +1,12 @@
 ---
 title: "El aporte de un juez"
-description: "Una publicación y una observación mala onda."
+description: "Una publicación."
 tags: ["wip", "regulación", "32"]
 draft: false
-date: 2023-01-11
+date: 2023-01-26
 ---
 
-WorkInProgress.
----------------
-
-Esta entrada tiene cierto tono negativo y no uno asertivo como los demás.
+**WorkInProgress.**
 
 La fuente primaria para el estudio de la ley de Regulación de honorarios sigue siendo el de Torres K.
 
@@ -21,5 +18,6 @@ Pero no se le puede negar al autor que, siendo Juez, intentó con mediano éxito
 
 Bueno pues ese juez, quizás urgido por obtener puntaje en en el [Consejo](https://cm.gov.py) intentó hacerlo. Bien por él. Mal por el libro.
 
-_Instant Karma gonna get him, if I dont get him first._
+Sin embargo cuando examina el artículo 32 tan mal entendido por tantos, se decanta por lo único razonable. El justo medio.
+
 

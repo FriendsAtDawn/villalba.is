@@ -57,5 +57,5 @@ Si un juicio es de 100 millones el total representado por ese monto más el que 
 
 Entonces, claro, no solucionamos el problema porque ahora **el mayor monto** simplemente fué desplazado a un descriptor. Cierto, pero ya no es gran problema. Es el cuarto de un problema, se tendrá que considerar junto con otros y su impacto de falsa proporción será menor.
 
-He aquí un escrito [reciente](/posts/img/2main.pdf).
+He aquí un escrito [reciente](/content/posts/img/2main.pdf).
 

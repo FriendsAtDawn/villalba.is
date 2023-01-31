@@ -5,7 +5,7 @@ draft: false
 date: 2023-01-21
 ---
 
-## Interés compuesto
+**Interés compuesto**
 
 Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:
 
@@ -19,7 +19,17 @@ $$
 
 Casi intuitivamente que esos valores constantes ---salvo el tiempo que pasa--- van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:
 
-Así si partimos desde un $C$ equivalente a 100 y un $ratio$ de 33% anuales:
+Así si partimos desde un 
+
+$$
+C = 100
+$$
+
+y
+
+$$
+ratio = 33%
+$$
 
 ![IntSimple](/posts/img/iss.png)
 
@@ -33,7 +43,7 @@ $$
 
 Nótese que no se trata de hallar la ratio de interés ya que tal ratio cambia de momento a momento, sino de hallar el Valor Final del Valor Inicial.
 
-|      Simb. |  | Obs.  |
+|       |  |  |
 | ------  | --- |------ |
 | $$V_f$$ | ; |	es el valor final.|
 | $$V_n$$	| ; | es el valor de un periodo determinado |
@@ -64,3 +74,5 @@ $$
 ![Interes](/posts/img/compuesto.png)
 
 ¿Es legal esto? Sí, claro. Siempre y cuando la llamada *tasa efectiva* no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.
+
+Y siempre y cuando la persona a cuyo favor se genera tales intereses no sea un banco o financiera.

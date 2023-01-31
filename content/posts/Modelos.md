@@ -13,7 +13,7 @@ tags: ["modelos", "escritos", "recusación"]
 
 ### Acciones de inconstitucionalidad.
 
-[Acción](/posts/img/main.pdf)
+[Acción](/content/posts/img/main.pdf)
 
 ### Recusaciones.
 

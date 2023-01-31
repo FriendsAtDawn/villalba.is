@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/32/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/fuentes-regulacion/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/regulaci%C3%B3n/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wip/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/inter%C3%A9s/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/matem%C3%A1ticas/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/saber/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/que-debe-saber-un-juez/</loc>
@@ -29,22 +41,10 @@
     <loc>/tags/1236/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/32/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/fuentes-regulacion/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/links/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/regulaci%C3%B3n/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/regulacion_de_honorarios/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/wip/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/monto/</loc>
@@ -92,6 +92,8 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/escritos/</loc>
+  </url><url>
+    <loc>/infisol/</loc>
   </url><url>
     <loc>/posts/modelos/</loc>
   </url><url>

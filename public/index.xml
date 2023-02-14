@@ -6,23 +6,38 @@
     <description>Recent content on Wilson Villalba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>El aporte de un juez</title>
-      <link>/posts/fuentes-regulacion/</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Modelos</title>
+      <link>/posts/modelos-de-escritos/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fuentes-regulacion/</guid>
-      <description>WorkInProgress.
-La fuente primaria para el estudio de la ley de Regulación de honorarios sigue siendo el de Torres K.
-Mucho más no hay. Parece ser que nadie se está tomando el trabajo de analizar tal ley.
-Ha poco me topé con un trabajo de un Juez sobre el tema. Su trabajo es harto incompleto y por momentos bastante errado y &amp;mdash;dado que es práctico y debe lidiar con fórmulas&amp;mdash; his type like a curse como dice el poeta.</description>
+      <guid>/posts/modelos-de-escritos/</guid>
+      <description>Incidentes.
+  Incidente de nulidad de intimación de pago.
+  Caducidad de Instancia.
+  Acciones de inconstitucionalidad.
+ Acción  Recusaciones.
+  Recusación.
+  Recusación
+  Aun no encuentro la manera correcta de articular el iudex suspectus. Definitivamente no se trata de una desconfianza de parcialidad fundado en hechos objetivos, sino también en que el juez no puede con la causa.
+Otros
+ Secretaría Extraliminatada ó Eu nao sei exatamente como foi que un belo dia quem brincaba de princesa acostumose a fantasia  </description>
+    </item>
+    
+    <item>
+      <title>Aviso importante</title>
+      <link>/archivo/aviso-importante/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/archivo/aviso-importante/</guid>
+      <description>Aviso: La pandemia terminó asestando un duro golpes a muchas empresas&amp;hellip; las de internet no fueron la excepción. Storj redujo su personal a 9 personas. 9 en cualquier oficina hay más. Por supuesto nada funciona. Keybase anunció su cierre. Filecoin empresa de criptoneda ya no funciona. Estas empresas eran cruciales para el mantenimiento de mis archivos. Los links rotos estarán repuestos, siquiera temporalmente, mientras intento hallar alguna solución. Chaos reign.</description>
     </item>
     
     <item>
       <title>¿Que debe saber un juez?</title>
       <link>/posts/que-debe-saber-un-juez/</link>
-      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/que-debe-saber-un-juez/</guid>
       <description>Antes de leer este post, es mejor leer el de interés compuesto.
@@ -30,6 +45,27 @@ Saber común.
 Usualmente ello está contenido dentro de lo que el Código llama los hechos notoriamente conocidos.
 ¿Por ejemplo? ¿Literatura? Tal vez no. Tal vez no sepan ubicar la cita:
 &amp;lt;&amp;lt;A tí también, en lejanas playas de oro, Te aguarda incorruptible tu tesoro, La vasta vaga populosa muerte.&amp;gt;&amp;gt; Pero deberían saber que es un terceto porque&amp;hellip; ¿no pasaron por la secundaria?</description>
+    </item>
+    
+    <item>
+      <title>I started a blog.</title>
+      <link>/acerca/i-started-a-blog/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/acerca/i-started-a-blog/</guid>
+      <description>Empecé con esta página con ganas de aprender de todo y me sorprende que, habiendo aprendido tan poco, haya recibido tal cantidad de visitas (no se preocupen, sé que muchos son bots).
+Trabajo en Paraguay, se habrán dado cuenta de eso, y así como es endeble el sistema judicial dentro del cual estoy inserto, así mismo hay gente que lucha denodadamente porque la Corte adquiera poder. El poder que le falta.</description>
+    </item>
+    
+    <item>
+      <title>El aporte de un juez</title>
+      <link>/posts/fuentes-regulacion/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fuentes-regulacion/</guid>
+      <description>WorkInProgress. La fuente primaria para el estudio de la ley de Regulación de honorarios sigue siendo el de Torres K.
+Mucho más no hay. Parece ser que nadie se está tomando el trabajo de analizar tal ley.
+Ha poco me topé con un trabajo de un Juez sobre el tema. Su trabajo es harto incompleto y por momentos bastante errado y &amp;mdash;dado que es práctico y debe lidiar con fórmulas&amp;mdash; his type like a curse como dice el poeta.</description>
     </item>
     
     <item>
@@ -45,24 +81,27 @@ $$ I = C \times \Delta t \times ratio $$</description>
     </item>
     
     <item>
-      <title>Links</title>
-      <link>/links/</link>
+      <title>Sellos de tiempo.</title>
+      <link>/links/links/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/links/</guid>
-      <description>Timestamps. Una de las cuestiones más difíciles en cuanto se refiere a los documentos es establecer su fecha cierta. La costumbre inveterada de antedatar hace que siempre dudemos de cualquiera de ellas.
+      <guid>/links/links/</guid>
+      <description>Timestamps.
+Una de las cuestiones más difíciles en cuanto se refiere a los documentos es establecer su fecha cierta. La costumbre inveterada de antedatar hace que siempre dudemos de cualquiera de ellas.
 https://www.truetimestamp.org/ es la página más sencilla que hallé en cuanto a hacer un timestamp. Hay otras, pero si no tienen experiencia, sería bueno que empiecen con esta.
 Tenemos leyes, tenemos tratados internacionales, que dan al documento electrónico1 el mismo valor que el no electrónico: el de escribanía, etc.</description>
     </item>
     
     <item>
       <title>Sobre Regulación de Honorarios</title>
-      <link>/posts/regulacion_de_honorarios/</link>
+      <link>/posts/regulacion-de-honorarios/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/regulacion_de_honorarios/</guid>
-      <description>Regulación de honorarios. No hay forma de conciliar los irreconciliables 32 y 21 de la Ley de Honorarios.
-Lo cual quiere decir. Se supone que es un regla de proporción, no sé como llamarlo de otra forma.
+      <guid>/posts/regulacion-de-honorarios/</guid>
+      <description>Regulación de honorarios.
+No hay forma de conciliar los irreconciliables 32 y 21 de la Ley de Honorarios.
+Lo cual quiere decir.
+Se supone que es un regla de proporción, no sé como llamarlo de otra forma.
 A mayor monto, menor honorarios.
 Nuestros jueces, ya es mucho decir que lo toman como una regla de tres. No creo que lleguen a tanto.
 Imaginemos que sí llegan.
@@ -82,10 +121,10 @@ Pero la demanda es por ese monto y por sus intereses, los cuáles no pueden deja
     
     <item>
       <title>Expediente Finexpar</title>
-      <link>/plra/expediente_finexpar/</link>
+      <link>/plra/expediente-finexpar/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/plra/expediente_finexpar/</guid>
+      <guid>/plra/expediente-finexpar/</guid>
       <description>Aún cuando pudieran existir constancias en finexpar.villalba.is, creo que puede ser util la inclusión de todo el expediente.
 Las actuaciones de segunda instancia están en archivo separado: alzada</description>
     </item>
@@ -101,10 +140,10 @@ Las actuaciones de segunda instancia están en archivo separado: alzada</descrip
     
     <item>
       <title>Nota no enviada</title>
-      <link>/plra/nota_propuesta_pero_no_remitida/</link>
+      <link>/plra/nota-propuesta/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>/plra/nota_propuesta_pero_no_remitida/</guid>
+      <guid>/plra/nota-propuesta/</guid>
       <description>Asunción, 2022-11-30.
 Su Excelencia Dr. Jaime Bestard, Presidente E. S. D.
 De nuestra consideración:
@@ -114,25 +153,22 @@ El PLRA últimamente ha entrado en una espiral de demandas que parece no tener f
     
     <item>
       <title>Informe Anterior</title>
-      <link>/plra/parte_del_informe_anterior/</link>
+      <link>/plra/parte-del-informe-anterior/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/plra/parte_del_informe_anterior/</guid>
+      <guid>/plra/parte-del-informe-anterior/</guid>
       <description>Informe sobre las dos ejecuciones contra el PARTIDO LIBERAL RADICAL AUTENTICO que hasta el momento me tocó contener. Dos causas fueron las que se empecinaron con los sueldos de los legisladores y sólo dos:
   CRISOL Y ENCARNACION FINANCIERA S.A. C/ PARTIDO LIBERAL RADICAL AUTENTICO Y OTROS S/ ACCION EJECUTIVA.- y;
   «MERIDIAN SA C/ PARTIDO LIBERAL RADICAL AUTENTICO Y OTROS S/ ACCIÓN EJECUTIVA», Expediente Nº 114 del año 2021.</description>
     </item>
     
     <item>
-      <title>Modelos</title>
-      <link>/posts/modelos/</link>
+      <title>Corporate mugshot.</title>
+      <link>/acerca/corporate-mugshot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/modelos/</guid>
-      <description>Modelos. Incidentes. Incidente de nulidad de intimación de pago.
-Acciones de inconstitucionalidad. Acción
-Recusaciones. Recusación.
-Aun no encuentro la manera correcta de articular el iudex suspectus. Definitivamente no se trata de una desconfianza de parcialidad fundado en hechos objetivos, sino también en que el juez no puede con la causa.</description>
+      <guid>/acerca/corporate-mugshot/</guid>
+      <description>Abogado por la Universidad Nacional de Asunción. Mgr. Sc. por la Universidad Columbia. Tengo extensos conocimientos sobre el Derecho Procesal Civil, casi tan amplios como los que poseo acerca del Código Civil. Ello implica necesariamente la noción de varias otras disciplinas, las que quedan insertas dentro de ese marco. Presto asesoría a varias empresas. Algunas en el campo estrictamente civil, otros en el campo administrativo que, como se sabe, comparte campo con el Derecho Penal.</description>
     </item>
     
   </channel>

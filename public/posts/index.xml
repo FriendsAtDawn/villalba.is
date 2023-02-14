@@ -6,23 +6,29 @@
     <description>Recent content in Notas en torno al Derecho on Wilson Villalba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>El aporte de un juez</title>
-      <link>/posts/fuentes-regulacion/</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Modelos</title>
+      <link>/posts/modelos-de-escritos/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fuentes-regulacion/</guid>
-      <description>WorkInProgress.
-La fuente primaria para el estudio de la ley de Regulación de honorarios sigue siendo el de Torres K.
-Mucho más no hay. Parece ser que nadie se está tomando el trabajo de analizar tal ley.
-Ha poco me topé con un trabajo de un Juez sobre el tema. Su trabajo es harto incompleto y por momentos bastante errado y &amp;mdash;dado que es práctico y debe lidiar con fórmulas&amp;mdash; his type like a curse como dice el poeta.</description>
+      <guid>/posts/modelos-de-escritos/</guid>
+      <description>Incidentes.
+  Incidente de nulidad de intimación de pago.
+  Caducidad de Instancia.
+  Acciones de inconstitucionalidad.
+ Acción  Recusaciones.
+  Recusación.
+  Recusación
+  Aun no encuentro la manera correcta de articular el iudex suspectus. Definitivamente no se trata de una desconfianza de parcialidad fundado en hechos objetivos, sino también en que el juez no puede con la causa.
+Otros
+ Secretaría Extraliminatada ó Eu nao sei exatamente como foi que un belo dia quem brincaba de princesa acostumose a fantasia  </description>
     </item>
     
     <item>
       <title>¿Que debe saber un juez?</title>
       <link>/posts/que-debe-saber-un-juez/</link>
-      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/que-debe-saber-un-juez/</guid>
       <description>Antes de leer este post, es mejor leer el de interés compuesto.
@@ -30,6 +36,17 @@ Saber común.
 Usualmente ello está contenido dentro de lo que el Código llama los hechos notoriamente conocidos.
 ¿Por ejemplo? ¿Literatura? Tal vez no. Tal vez no sepan ubicar la cita:
 &amp;lt;&amp;lt;A tí también, en lejanas playas de oro, Te aguarda incorruptible tu tesoro, La vasta vaga populosa muerte.&amp;gt;&amp;gt; Pero deberían saber que es un terceto porque&amp;hellip; ¿no pasaron por la secundaria?</description>
+    </item>
+    
+    <item>
+      <title>El aporte de un juez</title>
+      <link>/posts/fuentes-regulacion/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fuentes-regulacion/</guid>
+      <description>WorkInProgress. La fuente primaria para el estudio de la ley de Regulación de honorarios sigue siendo el de Torres K.
+Mucho más no hay. Parece ser que nadie se está tomando el trabajo de analizar tal ley.
+Ha poco me topé con un trabajo de un Juez sobre el tema. Su trabajo es harto incompleto y por momentos bastante errado y &amp;mdash;dado que es práctico y debe lidiar con fórmulas&amp;mdash; his type like a curse como dice el poeta.</description>
     </item>
     
     <item>
@@ -45,24 +62,15 @@ $$ I = C \times \Delta t \times ratio $$</description>
     </item>
     
     <item>
-      <title>Links</title>
-      <link>/links/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/links/</guid>
-      <description>Timestamps. Una de las cuestiones más difíciles en cuanto se refiere a los documentos es establecer su fecha cierta. La costumbre inveterada de antedatar hace que siempre dudemos de cualquiera de ellas.
-https://www.truetimestamp.org/ es la página más sencilla que hallé en cuanto a hacer un timestamp. Hay otras, pero si no tienen experiencia, sería bueno que empiecen con esta.
-Tenemos leyes, tenemos tratados internacionales, que dan al documento electrónico1 el mismo valor que el no electrónico: el de escribanía, etc.</description>
-    </item>
-    
-    <item>
       <title>Sobre Regulación de Honorarios</title>
-      <link>/posts/regulacion_de_honorarios/</link>
+      <link>/posts/regulacion-de-honorarios/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/regulacion_de_honorarios/</guid>
-      <description>Regulación de honorarios. No hay forma de conciliar los irreconciliables 32 y 21 de la Ley de Honorarios.
-Lo cual quiere decir. Se supone que es un regla de proporción, no sé como llamarlo de otra forma.
+      <guid>/posts/regulacion-de-honorarios/</guid>
+      <description>Regulación de honorarios.
+No hay forma de conciliar los irreconciliables 32 y 21 de la Ley de Honorarios.
+Lo cual quiere decir.
+Se supone que es un regla de proporción, no sé como llamarlo de otra forma.
 A mayor monto, menor honorarios.
 Nuestros jueces, ya es mucho decir que lo toman como una regla de tres. No creo que lleguen a tanto.
 Imaginemos que sí llegan.
@@ -78,18 +86,6 @@ Imaginemos que sí llegan.
       <description>Determinación del monto del juicio. Primariamente, el monto base para el justiprecio es el capital reclamado.
 Pero la demanda es por ese monto y por sus intereses, los cuáles no pueden dejar de tenerse en cuenta. En ningún caso. Ni si la actora logra éxito, tanto como si no. Ese hecho le es ajeno a la estipulación del monto del juicio. -
  &amp;lt;&amp;lt;Corresponde considerar, a los fines de resarcirtorio de los honorarios de la abogada patrocinante, la demandada, la suma reclamada y todos los accesorios que la actora hubiera logrado si hubiera triunfado en sus pretensiones, ya que esa ha sido su petición en el escrito inicial de demanda, de conformidad a la norma contenida en el inciso a del artículo 26 de la Ley 1306/88.</description>
-    </item>
-    
-    <item>
-      <title>Modelos</title>
-      <link>/posts/modelos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/modelos/</guid>
-      <description>Modelos. Incidentes. Incidente de nulidad de intimación de pago.
-Acciones de inconstitucionalidad. Acción
-Recusaciones. Recusación.
-Aun no encuentro la manera correcta de articular el iudex suspectus. Definitivamente no se trata de una desconfianza de parcialidad fundado en hechos objetivos, sino también en que el juez no puede con la causa.</description>
     </item>
     
   </channel>

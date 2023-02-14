@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>links on Wilson Villalba</title>
+    <link>/tags/links/</link>
+    <description>Recent content in links on Wilson Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sellos de tiempo.</title>
+      <link>/links/links/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/links/links/</guid>
+      <description>Timestamps.
+Una de las cuestiones más difíciles en cuanto se refiere a los documentos es establecer su fecha cierta. La costumbre inveterada de antedatar hace que siempre dudemos de cualquiera de ellas.
+https://www.truetimestamp.org/ es la página más sencilla que hallé en cuanto a hacer un timestamp. Hay otras, pero si no tienen experiencia, sería bueno que empiecen con esta.
+Tenemos leyes, tenemos tratados internacionales, que dan al documento electrónico1 el mismo valor que el no electrónico: el de escribanía, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

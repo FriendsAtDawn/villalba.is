@@ -3,6 +3,7 @@ html, body {
 }
 
 body {
+    margin-bottom: 40px;
     font-size:1.5em;
     padding-top: 55px;
     display: flex;
@@ -10,8 +11,20 @@ body {
     flex-direction: column;
 }
 
+h1{
+
+  font-size: 13 px;
+}
+
+blockquote{
+  font: small-caption;  
+}
+
 main {
-    margin: auto;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
     padding: 25px;
     flex: auto;
     max-width: 750px;
@@ -51,6 +64,12 @@ a:link, a:visited {
     color: #555555;
 }
 
+#bigbody{
+  margin-bottom: 40px;
+  flex: 0;
+}
+
+
 #bigbody main a {
     color: var(--accent) !important;
 }
@@ -63,6 +82,9 @@ a:link, a:visited {
     text-decoration: underline;
     color: #FFF;
 }
+
+/* wilson */
+
 
 
 /*paginator at bottom of list view*/
@@ -110,6 +132,7 @@ a:link, a:visited {
     background-color: var(--accent);
     font-size: 120%;
     color: #FFF !important;
+ /* border-bottom-style: none;*/
 }
 .navbar-default .navbar-nav li a {
     color: #cccccc;
@@ -129,12 +152,13 @@ a:link, a:visited {
 
 /* custome footer */
 footer {
+    padding-top: 20px;
     background-color: var(--accent);
     border-top: #e7e7e7 solid;
     border-top-width: 5px;
     color: #fff;
-    /* border-bottom: var(--border-width) solid #f8f8f8; */
-}
+    display: block;
+    }
 footer a {
     color: #cccccc;
 }
@@ -144,6 +168,9 @@ footer p {
 
 img {
     max-width: 100%;
+}
+
+
 }
 
 /** Intvert colors

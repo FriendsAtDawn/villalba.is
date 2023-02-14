@@ -2,38 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/escritos/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/modelos-de-escritos/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/modelos/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/recusaci%C3%B3n/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/archivo/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/aviso/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/archivo/aviso-importante/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/lars-von-trier/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sticky/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/inter%C3%A9s/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/matem%C3%A1ticas/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/saber/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/que-debe-saber-un-juez/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/acerca/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/acerca/i-started-a-blog/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/32/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/fuentes-regulacion/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/regulaci%C3%B3n/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/wip/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/inter%C3%A9s/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/matem%C3%A1ticas/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/saber/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/que-debe-saber-un-juez/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/interes-compuesto/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
@@ -44,7 +77,16 @@
     <loc>/links/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/regulacion_de_honorarios/</loc>
+    <loc>/tags/links/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/recursos/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/links/links/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/regulacion-de-honorarios/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/monto/</loc>
@@ -59,7 +101,10 @@
     <loc>/tags/expediente/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/plra/expediente_finexpar/</loc>
+    <loc>/plra/expediente-finexpar/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/finexpar/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/plra/</loc>
@@ -80,25 +125,17 @@
     <loc>/tags/tsje/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/plra/nota_propuesta_pero_no_remitida/</loc>
+    <loc>/plra/nota-propuesta/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/redactado/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/plra/parte_del_informe_anterior/</loc>
+    <loc>/plra/parte-del-informe-anterior/</loc>
     <lastmod>2022-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/tags/escritos/</loc>
-  </url><url>
-    <loc>/infisol/</loc>
-  </url><url>
-    <loc>/posts/modelos/</loc>
-  </url><url>
-    <loc>/tags/modelos/</loc>
-  </url><url>
-    <loc>/tags/recusaci%C3%B3n/</loc>
+    <loc>/acerca/corporate-mugshot/</loc>
   </url>
 </urlset>

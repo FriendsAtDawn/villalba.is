@@ -22,6 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
     highlightLanguages = ["r", "bash", "go"]
+    
 
 # adjust these as you see fit
 
@@ -32,28 +33,29 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [[menu.main]]
     url = "/posts/"
-    name = "Notas sobre D."
+    name = "Notas s. Derecho"
     weight = 2
-
-# [[menu.main]]
-#   url = "/files/"
-#   name = "Archivos"
-#   weight = 3
-    
+ 
 [[menu.main]]
     url = "/tags/"
     name = "Tags"
     weight = 7
-
-[[menu.main]]
-    url = "/plra/"
-    name = "PLRA"
-    weight = 4
-
+ 
 [[menu.main]]
     url = "/links/"
     name = "Links"
     weight = 5
+ 
+#   [[menu.footer]]
+#   url = "https://0007407.xyz"
+#   name = "0007407.xyz"
+#   weight = 2
+
+#   [[menu.footer]]
+#   url = "https://villalba.is"
+#   name = "villalba.is"
+#   weight = 3
+    
 
 #  [[menu.main.plra]]
 #  url = "/plra/"
@@ -75,17 +77,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "far fa-envelope"
     weight = 1
 
-# [[menu.icon]]
+#   [[menu.icon]]
 #   url = "https://github.com/FriendsAtDawn"
 #   name = "fab fa-github"
 #   weight = 2
 
-# [[menu.icon]]
+#   [[menu.icon]]
 #   url = "https://twitter.com/TheRealMe/"
 #   name = "fab fa-twitter"
 #   weight = 3
   
- [[menu.icon]]
+[[menu.icon]]
    url = "https://t.me/habermas"
    name = "fab fa-telegram"
    weight = 4
@@ -95,3 +97,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 #   name = "fab fa-stack-overflow"
 #   weight = 5
 
+[[menu.footer]]
+   url = "https://0007407.xyz"
+   name = "0007407.xyz"
+   weight = 1
+
+   [[menu.footer]]
+   url = "https://villalba.is"
+   name = "villalba.is"
+   weight = 2
+   
+   [[menu.footer]]
+    url = "/plra/"
+    name = "PLRA"
+    weight = 5
+    
+[[menu.footer]]
+    url = "/acerca/"
+    name = "Acerca de mí"
+    weight = 3

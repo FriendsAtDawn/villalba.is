@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acerca de mi. on Wilson Villalba</title>
+    <link>/acerca/</link>
+    <description>Recent content in Acerca de mi. on Wilson Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/acerca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I started a blog.</title>
+      <link>/acerca/i-started-a-blog/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/acerca/i-started-a-blog/</guid>
+      <description>Empecé con esta página con ganas de aprender de todo y me sorprende que, habiendo aprendido tan poco, haya recibido tal cantidad de visitas (no se preocupen, sé que muchos son bots).
+Trabajo en Paraguay, se habrán dado cuenta de eso, y así como es endeble el sistema judicial dentro del cual estoy inserto, así mismo hay gente que lucha denodadamente porque la Corte adquiera poder. El poder que le falta.</description>
+    </item>
+    
+    <item>
+      <title>Corporate mugshot.</title>
+      <link>/acerca/corporate-mugshot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/acerca/corporate-mugshot/</guid>
+      <description>Abogado por la Universidad Nacional de Asunción. Mgr. Sc. por la Universidad Columbia. Tengo extensos conocimientos sobre el Derecho Procesal Civil, casi tan amplios como los que poseo acerca del Código Civil. Ello implica necesariamente la noción de varias otras disciplinas, las que quedan insertas dentro de ese marco. Presto asesoría a varias empresas. Algunas en el campo estrictamente civil, otros en el campo administrativo que, como se sabe, comparte campo con el Derecho Penal.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -75,4 +75,23 @@ $$
 
 ¿Es legal esto? Sí, claro. Siempre y cuando la llamada *tasa efectiva* no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.
 
-Y siempre y cuando la persona a cuyo favor se genera tales intereses no sea un banco o financiera.
+Y siempre y cuando la persona a cuyo favor se generan tales intereses no sea un banco o financiera.
+
+La orgánica del BCP decía antes:
+
+> El interés a partir de la mora, denominado interés moratorio, será la misma tasa pactada originalmente. No podrán capitalizarse intereses moratorios por períodos inferiores a 30 (treinta) días.
+
+Pero una modificación posterior borra toda posibilidad de que se capitalicen intereses.
+
+Continúa en [¿Qué debe saber un Juez?](https://villalba.is/posts/que-debe-saber-un-juez/)
+
+
+
+
+
+
+
+
+
+
+---

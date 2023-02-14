@@ -1,6 +1,6 @@
 ---
 title: "Los casos PLRA"
-description: "Tópicos específicos sobre el punto."
+description: ""
 draft: false
 url: /plra/
 ---

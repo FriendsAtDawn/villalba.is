@@ -8,16 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Modelos</title>
-      <link>/posts/modelos-de-escritos/</link>
+      <title>Incidentes</title>
+      <link>/modelos/incidentes/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/modelos-de-escritos/</guid>
-      <description>Incidentes.
+      <guid>/modelos/incidentes/</guid>
+      <description>##Incidentes
   Incidente de nulidad de intimación de pago.
   Caducidad de Instancia.
-  Acciones de inconstitucionalidad.
- Acción  Recusaciones.
+  Si se quiere averiguar más sobre el contexto de este segundo escrito, el mismo está en hppts://fondo.villalba.is</description>
+    </item>
+    
+    <item>
+      <title>Recusaciones</title>
+      <link>/modelos/recusaciones/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/modelos/recusaciones/</guid>
+      <description>Recusaciones.
   Recusación.
   Recusación
   Aun no encuentro la manera correcta de articular el iudex suspectus. Definitivamente no se trata de una desconfianza de parcialidad fundado en hechos objetivos, sino también en que el juez no puede con la causa.
@@ -169,6 +177,16 @@ El PLRA últimamente ha entrado en una espiral de demandas que parece no tener f
       
       <guid>/acerca/corporate-mugshot/</guid>
       <description>Abogado por la Universidad Nacional de Asunción. Mgr. Sc. por la Universidad Columbia. Tengo extensos conocimientos sobre el Derecho Procesal Civil, casi tan amplios como los que poseo acerca del Código Civil. Ello implica necesariamente la noción de varias otras disciplinas, las que quedan insertas dentro de ese marco. Presto asesoría a varias empresas. Algunas en el campo estrictamente civil, otros en el campo administrativo que, como se sabe, comparte campo con el Derecho Penal.</description>
+    </item>
+    
+    <item>
+      <title>Inconstitucionalidades</title>
+      <link>/modelos/inconstitucionalidades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/modelos/inconstitucionalidades/</guid>
+      <description>Acciones de inconstitucionalidad.
+ Acción  </description>
     </item>
     
   </channel>

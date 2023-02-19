@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Escritos. on Wilson Villalba</title>
+    <link>/falsedad/</link>
+    <description>Recent content in Escritos. on Wilson Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/falsedad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idalina</title>
+      <link>/idalina/idalina-la-falsa/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/idalina/idalina-la-falsa/</guid>
+      <description>Este post no existe Adios mundo cruel, bye bye my love.</description>
+    </item>
+    
+  </channel>
+</rss>

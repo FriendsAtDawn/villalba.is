@@ -5,13 +5,16 @@
     <loc>/tags/escritos/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/modelos-de-escritos/</loc>
+    <loc>/modelos/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/modelos/incidentes/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/modelos/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>/modelos/recusaciones/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/recusaci%C3%B3n/</loc>
@@ -42,6 +45,9 @@
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/matem%C3%A1ticas/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/saber/</loc>
@@ -137,5 +143,7 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/acerca/corporate-mugshot/</loc>
+  </url><url>
+    <loc>/modelos/inconstitucionalidades/</loc>
   </url>
 </urlset>

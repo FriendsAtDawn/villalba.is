@@ -77,6 +77,7 @@ Dice la [LEY N° 2339 QUE MODIFICA EL ARTICULO 44 DE LA LEY N° 489/95 “ORGANI
 
 Se lo puede hallar en el excelente sitio del Congreso de la Nación (en serio lo extrañe mientras suspendieron el servicio durante casi un mes).
 
+_Ps:_ volvió a caer, este es el link del [cache de google](http://webcache.googleusercontent.com/search?q=cache:https://www.bacn.gov.py/leyes-paraguayas/5034/ley-n-2339-modifica-el-articulo-44-de-la-ley-n-48995-organica-del-banco-central-del-paraguay&strip=1&vwsrc=0).
 
 
 

@@ -2,28 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/acompanieme/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mecdigo/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mendigar/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mendigo/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/escritos/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/modelos/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/modelos/incidentes/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+    <loc>/tags/honorarios/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/modelos/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/regulacion/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/modelos/regulacion-de-honorarios/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/modelos/incidentes/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/modelos/recusaciones/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/recusaci%C3%B3n/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/archivo/</loc>
@@ -47,9 +71,6 @@
     <loc>/tags/matem%C3%A1ticas/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/saber/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -62,22 +83,13 @@
     <loc>/acerca/i-started-a-blog/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/32/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/fuentes-regulacion/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/regulaci%C3%B3n/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/wip/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/interes-compuesto/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/1236/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/32/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/links/</loc>
@@ -87,6 +99,9 @@
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/recursos/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/regulaci%C3%B3n/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/links/links/</loc>
@@ -140,9 +155,21 @@
     <loc>/plra/parte-del-informe-anterior/</loc>
     <lastmod>2022-05-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/etc/acompa%C3%B1eme-a-conocer/</loc>
+  </url><url>
+    <loc>/acerca-del-sitio/</loc>
+  </url><url>
+    <loc>/acerca-del-sitio/acerca-del-sitio/</loc>
+  </url><url>
+    <loc>/archivo/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/acerca/corporate-mugshot/</loc>
+  </url><url>
+    <loc>/etc/</loc>
+  </url><url>
+    <loc>/tags/inconstitucionalidad/</loc>
   </url><url>
     <loc>/modelos/inconstitucionalidades/</loc>
   </url>

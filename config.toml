@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Wilson Villalba"
 description = "Litigios."
 theme = "min_night"
-disqusShortname = ""
+disqusShortname-alt = "villalba.is"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
@@ -107,11 +107,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
    name = "villalba.is"
    weight = 2
    
-  
-[[menu.footer]]
-    url = "/acerca/"
-    name = "Acerca de mí"
+  [[menu.footer]]
+    url = "/acerca-del-sitio/"
+    name = "About"
     weight = 3
+
     
     [[menu.footer]]
     url = "/plra/"
@@ -123,4 +123,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "Modelos"
     weight = 4
 
-    
+    [[menu.footer]]
+    url = "/acerca/"
+    name = "Acerca de mí"
+    weight = 6

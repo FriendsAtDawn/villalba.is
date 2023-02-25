@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etcs on Wilson Villalba</title>
+    <link>/etc/</link>
+    <description>Recent content in Etcs on Wilson Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/etc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/etc/acompa%C3%B1eme-a-conocer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/acompa%C3%B1eme-a-conocer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archivo.</title>
+      <link>/archivo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archivo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

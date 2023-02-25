@@ -6,7 +6,27 @@
     <description>Recent content on Wilson Villalba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acompáñeme a conocer esta triste historia.</title>
+      <link>/posts/acompanieme/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/acompanieme/</guid>
+      <description>Trataré de hacerlo lo menos novelesco posible. Esa cualidad le es intríseca.
+Hacie finales del 2022 la señora Ciríaca Medina, una cliente, me indicó que deseaba donar una porción de su inmueble al Estado Paraguayo, que la está demandando dicho sea de paso, y quería que le arreglara la papelería. Su intención era que en el lugar se erigiera una escuela.
+La siguiente es una trasncripción del poder especial que me otorgó, si lo leen pueden tener una mejor noción de lo que pasó:</description>
+    </item>
+    
+    <item>
+      <title>Regulación de Honorarios</title>
+      <link>/modelos/regulacion-de-honorarios/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/modelos/regulacion-de-honorarios/</guid>
+      <description>Nada aun aca.</description>
+    </item>
+    
     <item>
       <title>Incidentes</title>
       <link>/modelos/incidentes/</link>
@@ -34,12 +54,12 @@ Otros
     </item>
     
     <item>
-      <title>Aviso importante</title>
+      <title>etc</title>
       <link>/archivo/aviso-importante/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/archivo/aviso-importante/</guid>
-      <description>Aviso: La pandemia terminó asestando un duro golpes a muchas empresas&amp;hellip; las de internet no fueron la excepción. Storj redujo su personal a 9 personas. 9 en cualquier oficina hay más. Por supuesto nada funciona. Keybase anunció su cierre. Filecoin empresa de criptoneda ya no funciona. Estas empresas eran cruciales para el mantenimiento de mis archivos. Los links rotos estarán repuestos, siquiera temporalmente, mientras intento hallar alguna solución. Chaos reign.</description>
+      <description></description>
     </item>
     
     <item>
@@ -63,17 +83,6 @@ Usualmente ello está contenido dentro de lo que el Código llama los hechos not
       <guid>/acerca/i-started-a-blog/</guid>
       <description>Empecé con esta página con ganas de aprender de todo y me sorprende que, habiendo aprendido tan poco, haya recibido tal cantidad de visitas (no se preocupen, sé que muchos son bots).
 Trabajo en Paraguay, se habrán dado cuenta de eso, y así como es endeble el sistema judicial dentro del cual estoy inserto, así mismo hay gente que lucha denodadamente porque la Corte adquiera poder. El poder que le falta.</description>
-    </item>
-    
-    <item>
-      <title>El aporte de un juez</title>
-      <link>/posts/fuentes-regulacion/</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/fuentes-regulacion/</guid>
-      <description>WorkInProgress. La fuente primaria para el estudio de la ley de Regulación de honorarios sigue siendo el de Torres K.
-Mucho más no hay. Parece ser que nadie se está tomando el trabajo de analizar tal ley.
-Ha poco me topé con un trabajo de un Juez sobre el tema. Su trabajo es harto incompleto y por momentos bastante errado y &amp;mdash;dado que es práctico y debe lidiar con fórmulas&amp;mdash; his type like a curse como dice el poeta.</description>
     </item>
     
     <item>
@@ -171,6 +180,36 @@ El PLRA últimamente ha entrado en una espiral de demandas que parece no tener f
     </item>
     
     <item>
+      <title></title>
+      <link>/etc/acompa%C3%B1eme-a-conocer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/acompa%C3%B1eme-a-conocer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acerca del Sitio.</title>
+      <link>/acerca-del-sitio/acerca-del-sitio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/acerca-del-sitio/acerca-del-sitio/</guid>
+      <description>Cualquiera puede usar el contenido del sitio en cuanto lo que se refiere al contenido escrito por mi. Puede hacer citándolo, puede hacerlo sin citar. Modificarlo de cualquier manera o criticarlo de la manera más hórrida.
+Cuando cometa errores por favor:
+  Envíen un mensaje en el correo cuyo ícono aparece arriba a la derecha o al grupo de telegram que aparece allí mismo.
+  O hagan un push en https://github.</description>
+    </item>
+    
+    <item>
+      <title>Archivo.</title>
+      <link>/archivo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archivo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Corporate mugshot.</title>
       <link>/acerca/corporate-mugshot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -185,8 +224,7 @@ El PLRA últimamente ha entrado en una espiral de demandas que parece no tener f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/modelos/inconstitucionalidades/</guid>
-      <description>Acciones de inconstitucionalidad.
- Acción  </description>
+      <description> Acción  </description>
     </item>
     
   </channel>
